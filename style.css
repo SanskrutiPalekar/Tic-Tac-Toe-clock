@@ -1,0 +1,10 @@
+*{box-sizing: border-box;}
+body{
+    margin-top: 20px;
+    padding: 10px;
+    border: 10px 20px 10px 20px;
+    background-color: aqua;
+}
+nav{
+   background-color: aqua;
+}
